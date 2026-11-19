@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "linkfyn": {
+      "type": "http",
+      "url": "https://mcp.linkfyn.co/mcp"
+    }
+  }
+}

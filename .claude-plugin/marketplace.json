@@ -1,0 +1,11 @@
+{
+  "name": "linkfyn",
+  "owner": { "name": "Linkfyn", "email": "hello@linkfyn.co" },
+  "plugins": [
+    {
+      "name": "linkfyn",
+      "source": "./linkfyn",
+      "description": "Make and run a Linkfyn page from chat: a link in bio that takes orders and appointments."
+    }
+  ]
+}
