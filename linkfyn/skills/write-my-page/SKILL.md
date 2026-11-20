@@ -33,6 +33,8 @@ For shops that take appointments (salons, spas, classes), use the `take-appointm
 
 `set_look` changes the theme, colours, font and background pattern. Pick one that suits the business, and say what you chose. To take a setting off, such as the pattern, send it in `reset` (`["pattern"]`). To remove a field from a block, such as a photo, set it to null in `update_block`.
 
+The round chat button floating at the bottom of the page is a shop setting, not part of the look: `set_floating_chat_button` shows or hides it, and the live page follows on the next publish. `get_page` says whether it is on (`floatingChatButton`).
+
 ## Rules
 
 - Never say Linkfyn takes payments, runs a bot or reads chats.
