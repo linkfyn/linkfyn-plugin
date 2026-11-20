@@ -1,6 +1,6 @@
 {
   "name": "linkfyn",
-  "owner": { "name": "Linkfyn", "email": "hello@linkfyn.co" },
+  "owner": { "name": "Linkfyn", "email": "hi@linkfyn.co" },
   "plugins": [
     {
       "name": "linkfyn",
