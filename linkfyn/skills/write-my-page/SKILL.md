@@ -31,7 +31,7 @@ For shops that take appointments (salons, spas, classes), use the `take-appointm
 
 ## Look
 
-`set_look` changes the theme, colours, font and background pattern. Pick one that suits the business, and say what you chose.
+`set_look` changes the theme, colours, font and background pattern. Pick one that suits the business, and say what you chose. To take a setting off, such as the pattern, send it in `reset` (`["pattern"]`). To remove a field from a block, such as a photo, set it to null in `update_block`.
 
 ## Rules
 
