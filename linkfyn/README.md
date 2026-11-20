@@ -8,6 +8,7 @@ This plugin connects your AI app to Linkfyn and teaches it how to set up your pa
 
 - "Set up a Linkfyn page for my cake business."
 - "Rewrite my page so it's clearer what I sell."
+- "My page looks plain. Here's my logo and Instagram, make it look like my shop."
 - "Add an order form that asks for the date and pickup or delivery."
 - "Let customers book a facial or a massage, Tuesday to Sunday, 10 to 7."
 - "Is my page ready to go live?"
@@ -17,6 +18,7 @@ This plugin connects your AI app to Linkfyn and teaches it how to set up your pa
 - **Connector**: Linkfyn's MCP server at `https://mcp.linkfyn.co/mcp`. You sign in or sign up in Linkfyn's own window (Google, or a code emailed to you); your AI app never sees a password.
 - **Skills**:
   - `set-up-linkfyn`: from nothing to a published page.
+  - `design-my-page`: a look made for your business, from your photos, logo and colours.
   - `write-my-page`: words, blocks, order forms and look.
   - `take-appointments`: services, hours, rooms or people.
   - `launch-my-page`: check, publish, test and share.

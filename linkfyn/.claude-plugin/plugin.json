@@ -1,6 +1,6 @@
 {
   "name": "linkfyn",
-  "version": "0.1.0",
+  "version": "0.3.1",
   "description": "Make and run a Linkfyn page from chat: a link in bio that takes orders and appointments and sends them to your WhatsApp or other chat app.",
   "author": { "name": "Linkfyn", "email": "hello@linkfyn.co", "url": "https://linkfyn.co" },
   "homepage": "https://linkfyn.co/ai",
