@@ -33,10 +33,10 @@ If it says Linkfyn can't make a shop for this account, explain plainly (new acco
 
 ## 4. Make the page theirs
 
-Call `get_page`, then use the `write-my-page` skill to replace the starter's words with theirs: a one-line hero, what they sell, how ordering works, opening hours. Keep it short; it's read on a phone.
+Before you write anything, ask for 3 to 6 photos of their work, their logo and their Instagram or website, if they haven't shared them. Then use the `design-my-page` skill: it picks a look from their photos and colours, and rebuilds the starter into a page laid out like Linkfyn's best sample pages, in their words. The starter page is only a skeleton; never stop at swapping its words.
 
 Photos: the starter page uses sample photos. Ask for their own:
-- If they give a public https link to a photo, use `upload_photo`, then put the returned address in the block with `edit_page`.
+- If they give a public https link to a photo, or a small one you can read (such as their logo, as a `data:image/...;base64` address of 2 MB at most), use `upload_photo`, then put the returned address in the block with `edit_page`.
 - Otherwise give them `addPhotosUrl` from `create_shop` or `get_setup_progress` to upload from their phone, then `list_photos` to use them.
 
 Never leave sample photos on a page you call finished. `get_setup_progress` reports `samplePhotosLeft`.
