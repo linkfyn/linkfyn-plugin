@@ -33,4 +33,4 @@ It can make a shop, edit its page and forms, add photos, publish, and set up app
 
 ## Privacy and terms
 
-[Privacy Policy](https://linkfyn.co/privacy) · [Terms](https://linkfyn.co/terms) · Questions: hello@linkfyn.co
+[Privacy Policy](https://linkfyn.co/privacy) · [Terms](https://linkfyn.co/terms) · Questions: hi@linkfyn.co
